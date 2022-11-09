@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 #include <wiringPi.h>
-
+*/
 lite DS18B20 driver for OrangePi which supported wiringOP.
 author:xfox
 contact:https://xfox.fun 
